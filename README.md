@@ -1,2 +1,3 @@
 # hello-world
-Learning github - yay
+
+Tässä sulle tekstiä. GitHub on kliffaa hei!
